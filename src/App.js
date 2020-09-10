@@ -6,6 +6,15 @@ export default function App() {
   const [data, updateData] = useState([])
   useEffect(()=>{
     // API call to get user list
+    axios
+      .get("https://randomuser.me/api/?results=50")
+      .then(response => {
+        const data = response.data.results;
+        updateData(data);
+      })
+      .catch(error => {
+        console.log(error);
+      });
   },[]) 
   return (
       <div className="App">
