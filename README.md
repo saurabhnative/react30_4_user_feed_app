@@ -2,8 +2,7 @@
 Scrollable user feed using react.js
 
 ### Objective:
-1. Make API request using axios to below URL to get user feed data 
-API URL for building feed:-   
+1. Make API request using axios to below URL to get user feed data:-   
 https://randomuser.me/api/?results=50
 
 2. Show the data fetched from API as scrollable feed in page
