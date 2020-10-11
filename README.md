@@ -8,7 +8,13 @@ https://randomuser.me/api/?results=50
 2. Show the data fetched from API as scrollable feed in page
 
 ### Learnings:
-How to use `useEffect` hook in react.js and how to make API calls in client side
+Here are some helpful resources to learn how to use `useEffect` hooks in react.js and how to make API calls on the client side.
+
+* A good [YouTube tutorial](https://www.youtube.com/watch?v=-4ni4uCUcvY) with plenty of code.
+* Another [good video tutorial](https://www.youtube.com/watch?v=rDVe6pmeAjo).
+* Documentation [from the the React.js site](https://reactjs.org/docs/hooks-effect.html ).
+* Another good [website tutorial](https://daveceddia.com/useeffect-hook-examples/) with plenty of code and explanations.
+* [API reference material](https://reactjs.org/docs/hooks-reference.html#useeffect) for useEffect.
 
 ## Available Scripts
 
