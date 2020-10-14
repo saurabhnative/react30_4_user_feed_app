@@ -13,6 +13,15 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "aredshaw",
+      "name": "Aaron K Redshaw",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25963303?v=4",
+      "profile": "https://www.linkedin.com/in/aaron-redshaw/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
