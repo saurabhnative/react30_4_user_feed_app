@@ -19,6 +19,10 @@ Here are some helpful resources to learn how to use `useEffect` hooks in react.j
 * Another good [website tutorial](https://daveceddia.com/useeffect-hook-examples/) with plenty of code and explanations.
 * [API reference material](https://reactjs.org/docs/hooks-reference.html#useeffect) for useEffect.
 
+Solutions:   
+[Solution 1](https://github.com/codeclassifiers/react30_4_user_feed_app/tree/master/solution_1)  
+[Solution 2](https://github.com/codeclassifiers/react30_4_user_feed_app/tree/master/solution_2)  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602642325/Blogimages/Screenshot_2020-10-14_at_7.35.25_AM_dxrd21.png" width="430" height="506"/>
 ## Available Scripts
 
 In the project directory, you can run:
