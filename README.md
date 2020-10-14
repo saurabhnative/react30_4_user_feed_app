@@ -1,6 +1,6 @@
 # react30_4_user_feed_app
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Scrollable user feed using react.js
 
@@ -61,6 +61,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/William-Schutte"><img src="https://avatars1.githubusercontent.com/u/59342351?v=4" width="100px;" alt=""/><br /><sub><b>William</b></sub></a><br /><a href="#projectManagement-William-Schutte" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aaron-redshaw/"><img src="https://avatars3.githubusercontent.com/u/25963303?v=4" width="100px;" alt=""/><br /><sub><b>Aaron K Redshaw</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_4_user_feed_app/commits?author=aredshaw" title="Documentation">📖</a></td>
   </tr>
 </table>
 
