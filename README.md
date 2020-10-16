@@ -1,31 +1,47 @@
 # react30_4_user_feed_app
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Scrollable user feed using react.js
 
 ### Objective:
-1. Make API request using axios to below URL to get user feed data:-   
-https://randomuser.me/api/?results=50
 
-2. Show the data fetched from API as scrollable feed in page 
+1. Make API request using axios to below URL to get user feed data:-  
+   https://randomuser.me/api/?results=50
+
+2. Show the data fetched from API as scrollable feed in page
 
 ### Learnings
-How to make API calls and updated DOM from API response using `useEffect` hook.  
+
+How to make API calls and updated DOM from API response using `useEffect` hook.
 
 ### Learning Resources:
+
 Here are some helpful resources to learn how to use `useEffect` hooks in react.js and how to make API calls on the client side.
 
-* A good [YouTube tutorial](https://www.youtube.com/watch?v=-4ni4uCUcvY) with plenty of code.
-* Another [good video tutorial](https://www.youtube.com/watch?v=rDVe6pmeAjo).
-* Documentation [from the the React.js site](https://reactjs.org/docs/hooks-effect.html ).
-* Another good [website tutorial](https://daveceddia.com/useeffect-hook-examples/) with plenty of code and explanations.
-* [API reference material](https://reactjs.org/docs/hooks-reference.html#useeffect) for useEffect.
+#### Video Tutorials
 
-Solutions:   
+- A good [YouTube tutorial](https://www.youtube.com/watch?v=-4ni4uCUcvY) with plenty of code.
+- Another [good video tutorial](https://www.youtube.com/watch?v=rDVe6pmeAjo).
+- [Learn useEffect in 13 minutes](https://https://www.youtube.com/watch?v=0ZJgIjIuY7U) from Web Dev Simplified.
+
+#### Documentations
+
+- Documentation [from the the React.js site](https://reactjs.org/docs/hooks-effect.html).
+- Another good [website tutorial](https://daveceddia.com/useeffect-hook-examples/) with plenty of code and explanations.
+- [API reference material](https://reactjs.org/docs/hooks-reference.html#useeffect) for useEffect.
+- [4 Ways to use useEffect()](https://dev.to/spukas/4-ways-to-useeffect-pf6) from dev.to
+- [React: useEffect explained with lifecycle methods](https://dev.to/prototyp/react-useeffect-explained-with-lifecycle-methods-296n) from dev.to
+
+Solutions:  
 [Solution 1](https://github.com/codeclassifiers/react30_4_user_feed_app/tree/master/solution_1)  
 [Solution 2](https://github.com/codeclassifiers/react30_4_user_feed_app/tree/master/solution_2)  
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602642325/Blogimages/Screenshot_2020-10-14_at_7.35.25_AM_dxrd21.png" width="430" height="506"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -67,6 +83,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
