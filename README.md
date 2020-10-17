@@ -27,7 +27,7 @@ Here are some helpful resources to learn how to use `useEffect` hooks in react.j
 
 - A good [YouTube tutorial](https://www.youtube.com/watch?v=-4ni4uCUcvY) with plenty of code.
 - Another [good video tutorial](https://www.youtube.com/watch?v=rDVe6pmeAjo).
-- [Learn useEffect in 13 minutes](https://https://www.youtube.com/watch?v=0ZJgIjIuY7U) from Web Dev Simplified.
+- [Learn useEffect in 13 minutes](https://www.youtube.com/watch?v=0ZJgIjIuY7U) from Web Dev Simplified.
 
 #### Documentations
 
